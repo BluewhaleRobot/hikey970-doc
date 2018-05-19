@@ -5,7 +5,7 @@ Description=Hikey 970 gitbook service
 Type=simple
 User=bwbot
 WorkingDirectory=/home/bwbot/data/src/gitbook/hikey970-doc
-ExecStart=/usr/local/bin/gitbook --port 22230 --lrport 22330 serve
+ExecStart=/usr/local/bin/gitbook --port 22235 --lrport 22335 serve
 
 [Install]
 WantedBy=multi-user.target
