@@ -6,3 +6,4 @@
 
 ## 二. 使用指南
   - [1. 刷基础固件和android系统](topic/462.md)
+  - [2. 刷入Debian和安装ROS](topic/483.md)
